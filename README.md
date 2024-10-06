@@ -5,3 +5,5 @@ the statistic, data mining practice is a jupyter notebook in which i practice fr
 the TESS and fits test.ipynb are example that i took from SDSS and Mikulski archive in the last one you will need a fit of 4gb in order to run it (i have the file),
 
 the TESS jupyter notebook can run it whitout problem 
+
+NEW i upload the presentation for the wendsday if you wanna take a look and verify if is ok
